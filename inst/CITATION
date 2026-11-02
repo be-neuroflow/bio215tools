@@ -1,0 +1,11 @@
+citHeader("To cite bio215tools in reports, use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "bio215tools: Introductory Tools for Biological Data Analysis",
+  author = person("be-neuroflow"),
+  year = "2026",
+  note = "R package version 0.1.0",
+  url = "https://github.com/be-neuroflow/bio215tools"
+)
+

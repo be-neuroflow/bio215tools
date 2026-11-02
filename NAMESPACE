@@ -1,0 +1,6 @@
+export(doubling_time)
+export(hardy_weinberg_test)
+export(logistic_growth)
+export(shannon_diversity)
+export(simpson_diversity)
+

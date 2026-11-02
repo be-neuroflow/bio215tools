@@ -1,0 +1,18 @@
+Package: bio215tools
+Type: Package
+Title: Introductory Tools for Biological Data Analysis
+Version: 0.1.0
+Authors@R: person(given = "be-neuroflow", email = "yilinnnng@gmail.com", role = c("aut", "cre"))
+Description: Provides small, dependency-free functions for common introductory
+    biology calculations. Tools include ecological diversity indices,
+    deterministic logistic population growth, population doubling time, and a
+    chi-squared test for Hardy-Weinberg equilibrium.
+License: MIT + file LICENSE
+URL: https://github.com/be-neuroflow/bio215tools
+BugReports: https://github.com/be-neuroflow/bio215tools/issues
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+
